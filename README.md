@@ -32,5 +32,5 @@ Access in browser with
 
 Stop contailers
 ```
-docker compose up -d
+docker compose stop
 ```
