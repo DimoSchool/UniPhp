@@ -1,0 +1,4 @@
+Player = Dimo Nika / Score = 123
+Player = Oleg Xdd / Score = 13
+Player = Andiy Deikun / Score = 999
+total of all scores = 1135
