@@ -1,3 +1,0 @@
-docker exec -it my_php bash
-php -S 0.0.0.0:8000 router.php
-php -S 0.0.0.0:8000
